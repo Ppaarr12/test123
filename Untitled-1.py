@@ -1,1 +1,1 @@
-print("nice")
+print("ad")
